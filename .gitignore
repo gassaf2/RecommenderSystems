@@ -1,0 +1,5 @@
+# Ignore everything
+week1/*
+
+# Allow only the specific file
+!week1/missing_values.ipynb
