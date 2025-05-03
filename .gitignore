@@ -1,7 +1,9 @@
 # Ignore everything
 week1/*
 week2/*
-
+Final_Project/*
 # Allow only the specific file
 !week1/missing_values.ipynb
 !week2/Practical_Exercise_Age_Group_Popularity.ipynb
+!Final_Project/GASSAF_Recommender_System_Course_Project_GitHub_withconda.ipynb
+!Final_Project/NeuMF_GASSAF_Recommender_System_Course_Project_GitHub.ipynb
